@@ -1,0 +1,26 @@
+{
+  "name": "Hangman-command_line",
+  "version": "1.0.0",
+  "description": "Command Line Hangman Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasPeel/Hangman-command_line.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasPeel/Hangman-command_line/issues"
+  },
+  "homepage": "https://github.com/NicholasPeel/Hangman-command_line#readme",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "colors": "^1.2.1",
+    "inquirer": "^5.2.0",
+    "npm": "^5.8.0"
+  }
+}
